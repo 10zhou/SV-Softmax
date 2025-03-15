@@ -1,5 +1,5 @@
 # SV-Softmax
-Implementation for paper SV-Softmax: Large-Margin Softmax Loss using Synthetic Virtual Class
+Implementation for paper SV-Softmax: Large-Margin Softmax Loss using Synthetic Virtual Class.
 
 In our paper, we introduce a margin adaptive synthetic virtual Softmax loss with virtual prototype insertion strategy, which emphasize the importance of misclassified hard samples.
 
