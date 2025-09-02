@@ -1,0 +1,13 @@
+imutils==0.5.4
+matplotlib==3.5.0
+mxnet==1.9.1
+numpy==1.23.5
+onnx==1.17.0
+pandas==1.3.5
+Pillow==9.2.0
+scipy==1.8.1
+torch==1.12.1
+torchinfo==1.8.0
+torchvision==0.13.1
+tqdm==4.64.1
+tensorboard==2.14.0
