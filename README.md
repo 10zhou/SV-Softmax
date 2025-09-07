@@ -117,7 +117,16 @@ The repository includes implementations of various loss functions:
 If you find this work useful for your research, please cite:
 
 ```bibtex
-Coming Soon...
+@article{CHEN2025108068,
+title = {Large-Margin Softmax Loss using Synthetic Virtual Class},
+journal = {Neural Networks},
+pages = {108068},
+year = {2025},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2025.108068},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608025009487},
+author = {Jiuzhou Chen and Xiangyang Huang and Shudong Zhang}
+}
 ```
 
 
